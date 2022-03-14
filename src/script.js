@@ -1,5 +1,5 @@
-import * as THREE from '../threejs-master/build/three.module.js';
-import { OrbitControls } from "../threejs-master/examples/jsm/controls/OrbitControls.js"
+import * as THREE from '../modules/module.js';
+import { OrbitControls } from "../modules/OrbitControls.js"
 const  gui = new dat.GUI()
 const world  = {
     plane : {
