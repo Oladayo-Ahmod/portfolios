@@ -140,7 +140,7 @@
       background-size: cover;
     transition: 1s ease;
       background-repeat: no-repeat;
-      background-image: url(/images/dev.png);
+      background-image: url('/images/dev.jpg');
   }
   .footer-img:hover{
     transition: 1s ease;
